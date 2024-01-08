@@ -2,16 +2,15 @@
 
 **About**
 
-This project is designed to analyze Walmart sales data with the objective of gaining insights into the top-performing branches and products. The focus includes understanding the sales trends of various products and examining customer behavior. The overarching goal is to assess how sales strategies can be enhanced and optimized for improved performance. The dataset utilized in this analysis was sourced from the [Kaggle Walmart Sales Forecasting Competition.
+This project is designed to analyze Walmart sales data with the objective of gaining insights into the top-performing branches and products. The focus includes understanding the sales trends of various products and examining customer behavior. The overarching goal is to assess how sales strategies can be enhanced and optimized for improved performance. The dataset utilized in this analysis was sourced from the [https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 ](url)
-
 **Purposes Of The Project**
 
 The primary objective of this project is to acquire insights from Walmart's sales data, aiming to comprehend the various factors influencing the sales performance across different branches.
 
 **About Data**
 
-The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition.](url) This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
+The dataset was obtained from the [https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting](url) This dataset contains sales transactions from a three different branches of Walmart, respectively located in Mandalay, Yangon and Naypyitaw. The data contains 17 columns and 1000 rows:
 
 ![WhatsApp Image 2024-01-08 at 23 33 50](https://github.com/honey-2317/Walmart-Sales-Data-Analysis-SQL-Queries/assets/140439533/29d79413-df90-446e-abcb-3d4f3e7c4f61)
 
