@@ -38,11 +38,11 @@ During the initial step, the data undergoes thorough inspection to identify and 
 
 **Feature Engineering:**
 
-This stage involves generating new columns from existing ones. A "time_of_day" column is added to provide insights into sales during morning, afternoon, and evening, aiding in understanding peak sales periods. 
+1. This stage involves generating new columns from existing ones. A "time_of_day" column is added to provide insights into sales during morning, afternoon, and evening, aiding in understanding peak sales periods. 
 
-Another column, "day_name," is introduced to display the extracted days of the week for each transaction, offering insights into the busiest days for each branch. 
+2. Another column, "day_name," is introduced to display the extracted days of the week for each transaction, offering insights into the busiest days for each branch. 
 
-Additionally, a "month_name" column is created to identify the months of the year for transactions, facilitating analysis of monthly sales and profit trends.
+3. Additionally, a "month_name" column is created to identify the months of the year for transactions, facilitating analysis of monthly sales and profit trends.
 
 **Exploratory Data Analysis (EDA):**
 
@@ -53,6 +53,7 @@ Exploratory data analysis is conducted to address project objectives and answer 
 **Generic Question**
 
 How many unique cities does the data have?
+
 In which city is each branch?
 
 **Product**
