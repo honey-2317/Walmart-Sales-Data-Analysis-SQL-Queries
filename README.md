@@ -38,7 +38,11 @@ During the initial step, the data undergoes thorough inspection to identify and 
 
 **Feature Engineering:**
 
-This stage involves generating new columns from existing ones. A "time_of_day" column is added to provide insights into sales during morning, afternoon, and evening, aiding in understanding peak sales periods. Another column, "day_name," is introduced to display the extracted days of the week for each transaction, offering insights into the busiest days for each branch. Additionally, a "month_name" column is created to identify the months of the year for transactions, facilitating analysis of monthly sales and profit trends.
+This stage involves generating new columns from existing ones. A "time_of_day" column is added to provide insights into sales during morning, afternoon, and evening, aiding in understanding peak sales periods. 
+
+Another column, "day_name," is introduced to display the extracted days of the week for each transaction, offering insights into the busiest days for each branch. 
+
+Additionally, a "month_name" column is created to identify the months of the year for transactions, facilitating analysis of monthly sales and profit trends.
 
 **Exploratory Data Analysis (EDA):**
 
@@ -108,6 +112,16 @@ Which time of the day do customers give most ratings per branch?
 Which day fo the week has the best avg ratings?
 
 Which day of the week has the best average ratings per branch?
+
+**Conclusion**
+
+In this comprehensive analysis of Walmart sales data, the dataset encompasses three distinct cities: Yangon, Naypyitaw, and Mandalay, each featuring six diverse product lines. Following a meticulous examination, it has been discerned that the Fashion Accessories product line stands out as the top-performing category.
+
+Payment methods adopted by customers during transactions were also scrutinized, revealing that the most prevalent method is cash, closely followed by e-wallet transactions. Noteworthy findings indicate that January emerges as the peak month for overall sales, with Naypyitaw demonstrating itself as the most revenue-generating city.
+
+Moreover, an intriguing revelation pertains to the popularity of the Fashion Accessories product line, particularly among female consumers, underscoring its significance in the market. Delving into the temporal aspect, sales peaks during the evening hours, attributed to the post-work hours when individuals are likely to engage in shopping.
+
+A critical facet of revenue generation is attributed to "membership" customers, signifying the significance of loyalty programs and customer retention strategies in enhancing Walmart's financial performance. This comprehensive analysis sheds light on pivotal aspects, providing strategic insights that can inform and optimize sales strategies for sustained growth.
 
 
 
